@@ -1,6 +1,8 @@
 package com.spring.training.basics.springin5steps;
 
-public class BubbleSortAlgorithm {
+import com.spring.training.basics.springin5steps.interfaces.SortAlgorithm;
+
+public class BubbleSortAlgorithm implements SortAlgorithm {
 	
 	public int[] sort(int[] numbers) {
 		// Logic for Bubble Sort
