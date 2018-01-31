@@ -27,3 +27,4 @@ Autowiring by type from bean name 'binarySearchImpl' via constructor to
 bean named 'bubbleSortAlgorithm'
 Finishing creating instance of bean 'binarySearchImpl'
 
+Step 6 - Dynamic auto wiring and Troubleshooting - @Primary
