@@ -23,8 +23,17 @@ Identified condidate component class: file
 Creating instance of bean 'binarySearchImpl'
 Creating instance of bean 'bubbleSortAlgorithm'
 Finished creating instance of bean 'bubbleSortAlgorithm'
+
 Autowiring by type from bean name 'binarySearchImpl' via constructor to
 bean named 'bubbleSortAlgorithm'
 Finishing creating instance of bean 'binarySearchImpl'
 
 Step 6 - Dynamic auto wiring and Troubleshooting - @Primary
+
+Step 7 - Constructor and Setter Injection
+
+Constructor - Autowiring by type from bean name 'binarySearchImpl' via constructor to bean named 'bubbleSortAlgorithm'
+
+Setter - Autowiring by type from bean name 'binarySearchImpl' to bean name 'bubbleSortAlgorithm'
+
+No setter or consctructor - Autowiring by type from bean name 'binarySearchImpl' to bean name 'bubbleSortAlgorithm'

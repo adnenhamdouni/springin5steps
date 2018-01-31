@@ -8,9 +8,8 @@ import com.spring.training.basics.springin5steps.interfaces.SortAlgorithm;
 @Component
 public class BinarySearchImpl {
 	
-	@Autowired
 	private SortAlgorithm sa;
-	
+
 	public BinarySearchImpl(SortAlgorithm sa) {
 		this.sa = sa;
 	}
@@ -29,6 +28,17 @@ public class BinarySearchImpl {
 		// Return the result
 		return 3;
 	}
+
+	public SortAlgorithm getSa() {
+		return sa;
+	}
+
+	@Autowired
+	public void setSa(SortAlgorithm sa) {
+		this.sa = sa;
+	}
+	
+	
 	
 
 }
