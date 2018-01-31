@@ -51,3 +51,20 @@ No setter or consctructor - Autowiring by type from bean name 'binarySearchImpl'
 -> Core Container (Beans, Core, Context, SpEL
 
 -> Test
+
+- Step 9 - Spring module Spring Projects 
+
+Same release version as the spring framework. Provide solutions for different
+problems faced by Entreprise Applications
+
+-> Spring Boot: one of the most popular framework to develop micro services
+Easy to develop application quickly (starter project, auto configuration, actuator)
+-> Spring Cloud
+-> Spring Data: provide a consistance data access
+-> Spring Integration
+-> Spring Batch: enable developping batch applications very easly
+-> Spring Security: protect web application and REST web services (OAUTH2, JWT..)
+-> Spring HATEOAS: 
+-> Others: Spring Web Services, Spring Session, Spring Mobile, Spring Android
+
+
