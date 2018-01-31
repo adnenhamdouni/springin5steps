@@ -28,12 +28,26 @@ Autowiring by type from bean name 'binarySearchImpl' via constructor to
 bean named 'bubbleSortAlgorithm'
 Finishing creating instance of bean 'binarySearchImpl'
 
-Step 6 - Dynamic auto wiring and Troubleshooting - @Primary
+- Step 6 - Dynamic auto wiring and Troubleshooting - @Primary
 
-Step 7 - Constructor and Setter Injection
+- Step 7 - Constructor and Setter Injection
 
 Constructor - Autowiring by type from bean name 'binarySearchImpl' via constructor to bean named 'bubbleSortAlgorithm'
 
 Setter - Autowiring by type from bean name 'binarySearchImpl' to bean name 'bubbleSortAlgorithm'
 
 No setter or consctructor - Autowiring by type from bean name 'binarySearchImpl' to bean name 'bubbleSortAlgorithm'
+
+- Step 8 - Spring module 
+
+-> Data access / Integration (JDBC, ORP, OXM, JMS, Transactions)
+-> Web (Websocket, Servlet, Web, Portlet)
+
+-> AOP
+-> Aspects
+-> Instrumentation
+-> Messaging
+
+-> Core Container (Beans, Core, Context, SpEL
+
+-> Test
