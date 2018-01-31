@@ -52,7 +52,7 @@ No setter or consctructor - Autowiring by type from bean name 'binarySearchImpl'
 
 -> Test
 
-- Step 9 - Spring module Spring Projects 
+- Step 9 - Spring Projects 
 
 Same release version as the spring framework. Provide solutions for different
 problems faced by Entreprise Applications
@@ -67,4 +67,13 @@ Easy to develop application quickly (starter project, auto configuration, actuat
 -> Spring HATEOAS: 
 -> Others: Spring Web Services, Spring Session, Spring Mobile, Spring Android
 
+- Step 10 - Why is Spring popular?
+
+-> Enable testable code (write unit test very easy if we use Dependency Injection correctly. Spring has really good integration frameworks like JUnit and Mockito
+-> No plumbing Code: not needed code not necessary by the application
+-> Flexible Architecture: Spring very modulare (Spring Module and Spring Projects)
+Spring MVC support all other MVC Framework like strusts. Have a flexibility to choose frameworks needed
+-> Staying Current
+-> 
+ 
 
