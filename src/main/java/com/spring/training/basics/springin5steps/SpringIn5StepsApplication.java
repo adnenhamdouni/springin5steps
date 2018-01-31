@@ -8,5 +8,9 @@ public class SpringIn5StepsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringIn5StepsApplication.class, args);
+
+		BinarySearchImpl bn = new BinarySearchImpl();
+		int result = bn.binarySearch(new int[] { 12, 4, 6 }, 3);
+		System.out.println("result of binary search = "+result);
 	}
 }
