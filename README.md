@@ -14,3 +14,16 @@ documentation url
 // What are the Beans?
 // What are the dependencies of Bean?
 // Where to search for beans?
+
+- Step 5 - What is happening in the background?
+
+Searching directory [com.spring.training.basics.springin5steps]
+Identified condidate component class: file
+
+Creating instance of bean 'binarySearchImpl'
+Creating instance of bean 'bubbleSortAlgorithm'
+Finished creating instance of bean 'bubbleSortAlgorithm'
+Autowiring by type from bean name 'binarySearchImpl' via constructor to
+bean named 'bubbleSortAlgorithm'
+Finishing creating instance of bean 'binarySearchImpl'
+
