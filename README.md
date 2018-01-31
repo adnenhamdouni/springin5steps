@@ -1,13 +1,9 @@
-# Elearning Web App
+# Spring in 5 Steps
 
 # Spring Boot
 
-documentation url : http://localhost:8080/swagger-ui.html
+documentation url
 
 # Sprint 1
 
-- Configure Securities
-- Create entities
-- Create Repositories
-- Create Services
-- Create Rest Controllers for basic CRUD methods
+- Loosing couple
